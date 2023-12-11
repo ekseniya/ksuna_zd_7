@@ -56,7 +56,7 @@
             <StackPanel Margin="55 0 0 0" HorizontalAlignment="Center"  Orientation="Horizontal">
                 <TextBlock Margin="5" FontSize="15">Взнос</TextBlock>
                 <ComboBox Width="120" VerticalContentAlignment="Center" Height="30" SelectedIndex="0">
-                    <ComboBoxItem Content="Фонд Банк"/>
+                    <ComboBoxItem Content="Фонд кошек"/>
                 </ComboBox>
             </StackPanel>
             <StackPanel Margin="10" HorizontalAlignment="Center"  Orientation="Horizontal">
